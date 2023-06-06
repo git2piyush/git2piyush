@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @git2piyush
-- 👀 I’m interested in frontend/fullstack development
+- 👀 I’m interested in frontend/fullstack (MERN) development
 - 🌱 I’m currently learning node js, express js and aws
 - 💞️ I’m looking to collaborate on React js, next js, node js and other js frameworks
 - 📫 How to reach me ... piyushsoni.inbox@gmail.com
